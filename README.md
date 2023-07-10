@@ -2,6 +2,7 @@
 
 Imageboard é um aplicativo web que permite aos usuários postar e comentar imagens de diferentes temas.
 
+Caso deseje ver basta acessar o link <a href="https://alexandre-henrique-04.github.io/imageboard/">aqui esta</a>
 ## Funcionalidades
 
 - Upload de imagens com título e descrição
