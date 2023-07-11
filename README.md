@@ -11,4 +11,4 @@ Caso deseje ver basta acessar o link <a href="https://alexandre-henrique-04.gith
 
 ## Tecnologias
 
-- HTML, CSS e JavaScript para o front-end
+- HTML e CSS para o front-end
