@@ -12,4 +12,3 @@ Caso deseje ver basta acessar o link <a href="https://alexandre-henrique-04.gith
 ## Tecnologias
 
 - HTML e CSS para o front-end
-- Editor de Desenvolvimento, VIM.
